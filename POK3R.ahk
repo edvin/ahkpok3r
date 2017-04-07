@@ -48,3 +48,7 @@ Return
 CapsLock & '::
 SendInput {Delete}
 Return
+
+CapsLock & Backspace::
+SendInput {Delete}
+Return

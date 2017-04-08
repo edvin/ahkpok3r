@@ -11,3 +11,5 @@ It supports:
  - Swap Escape and backtick
 
 It uses CapsLock as Fn, as if you popped switch 3 on your POK3R.
+
+Download and run POK3R.exe or download the script to modify it and compile it yourself with AutoHotKey.

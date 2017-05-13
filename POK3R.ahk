@@ -108,3 +108,15 @@ Return
 Capslock & `::
 SendRaw ``
 Return
+
+Capslock & S::
+Send {Volume_Down}
+Return
+
+Capslock & D::
+Send {Volume_Up}
+Return
+
+Capslock & F::
+Send {Volume_Mute}
+Return
